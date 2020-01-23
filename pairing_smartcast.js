@@ -1,6 +1,6 @@
 let smartcast = require('vizio-smart-cast');
 let readline = require('readline'); // user input via cmd line
-let tv = new smartcast('PUT TV IP HERE');
+let tv = new smartcast('192.168.1.20');
 
 // configure cmd line input
 const rl = readline.createInterface({
