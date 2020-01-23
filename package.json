@@ -2,6 +2,7 @@
   "name": "DiscordVizioBot",
   "version": "1.0.0",
   "description": "Control Vizio Smartcast TV using API",
+  "private": true,
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
